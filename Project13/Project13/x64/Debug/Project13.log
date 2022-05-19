@@ -1,0 +1,5 @@
+﻿  등록화면.c
+C:\Users\dudgm\source\repos\Project13\Project13\yn.h(7,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\dudgm\source\repos\Project13\Project13\yn.h(24,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\dudgm\source\repos\Project13\Project13\등록화면.c(29,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Project13.vcxproj -> C:\Users\dudgm\source\repos\Project13\x64\Debug\Project13.exe

@@ -1,0 +1,16 @@
+﻿  소스.c
+C:\Users\dudgm\source\repos\Project13\Project13\yn.h(7,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\dudgm\source\repos\Project13\Project13\yn.h(24,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(45,8): warning C4013: 'initz'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(48,8): warning C4013: 'input'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(51,9): warning C4013: 'output'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(54,9): warning C4013: 'search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(57,10): warning C4013: 'delete'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(73,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\dudgm\source\repos\Project13\Project13\소스.c(180,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+소스.obj : error LNK2019: _initz_main 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: _input_main 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: _output_main 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: _search_main 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: _delete_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\dudgm\source\repos\Project13\Debug\Project13.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
